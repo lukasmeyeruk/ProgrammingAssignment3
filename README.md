@@ -33,6 +33,4 @@ The Script creates two data frames that contain the following information:
 1. data_mean_std: Table containing all information limited to columns providing information on mean and stddev
 1. data_2_mean_by_subject_label: Table with aggregated information by subject and label showing the mean of all measurements.
 
-
-
-
+The script writes the table 'data_2_mean_by_subject_label' into a txt file without printing the header information.
